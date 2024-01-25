@@ -12,16 +12,16 @@ Odczyt = (temperatura, ciśnienie, wilgotność - powietrza, aktualna data - for
 
     Zbudowanie aplikacji klienckiej (React + charts.js) - polecenie Vite
 
-Vite:
-1. Tworzenie nowego projektu:
-bash
-npm create vite
-cd nazwa-projektu
-2. Uruchamianie aplikacji w trybie deweloperskim:
-bash
-npm run dev
-
-(szablon TypeScript)
+    Vite:
+    1. Tworzenie nowego projektu:
+    bash
+    npm create vite
+    cd nazwa-projektu
+    2. Uruchamianie aplikacji w trybie deweloperskim:
+    bash
+    npm run dev
+    
+    (szablon TypeScript)
     
 
     Wyświetlanie pomiarów pobranych z serwera
